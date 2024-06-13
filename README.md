@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codebynawaz
 - 👀 I’m interested in fullstackdeveloper profile.
-- 🌱 I’m currently learning fandamentals pf coading.
+- 🌱 I’m currently learning fandamentals of coading.
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
